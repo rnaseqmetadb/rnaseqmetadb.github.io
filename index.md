@@ -1,3 +1,3 @@
 ---
-redirect_to: 'http://lijin01ictaccn.pythonanywhere.com'
+redirect_to: 'http://rnaseqmetadb.pythonanywhere.com'
 ---
